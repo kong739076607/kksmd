@@ -107,21 +107,3 @@ VC11运行库下载：http://www.microsoft.com/zh-CN/download/details.aspx?id=30
                                             http://www.phpStudy.net
 
 
-=====有问题的请仔细阅读下面内容。=================
-
-1. 如何调试打开PHP  参照：http://www.phpstudy.net/a.php/183.html
-2. 无法正常启动时   参照：http://www.phpstudy.net/a.php/184.html
-3. 如何修改端口及WWW目录     参照：http://www.phpstudy.net/a.php/185.html
-4. 修改或重置MySQL密码   参照：http://www.phpstudy.net/a.php/186.html
-5. 快速建立MySQL数据库   参照：http://www.phpstudy.net/a.php/187.html
-6. 如何添加多站点        参照：http://www.phpstudy.net/a.php/188.html
-7. 如何控制单一启停      参照：http://www.phpstudy.net/a.php/189.html
-8. 重装系统后启动        参照：http://www.phpstudy.net/a.php/190.html
-9. 如何更新升级          参照：http://www.phpstudy.net/a.php/191.html
-10. 提示没安装Zend或Zend Optimizer not Installed  参照：http://www.phpstudy.net/a.php/181.html
-11. IIS7/8快速安装PHP及注意事项   参照：http://www.phpstudy.net/a.php/182.html
-12. 如何禁止或允许站点目录列表    参照：http://www.phpstudy.net/a.php/192.html
-13. 自带Ftp Server如何使用        参照：http://www.phpstudy.net/a.php/193.html
-14. 自带挂马监视器如何使用        参照：http://www.phpstudy.net/a.php/194.html
-
-
